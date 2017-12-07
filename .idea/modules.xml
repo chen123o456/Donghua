@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Anim/Anim.iml" filepath="$PROJECT_DIR$/Anim/Anim.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Donghua.iml" filepath="$PROJECT_DIR$/Donghua.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/content01/content01.iml" filepath="$PROJECT_DIR$/content01/content01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/content02/content02.iml" filepath="$PROJECT_DIR$/content02/content02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/contentprovider03/contentprovider03.iml" filepath="$PROJECT_DIR$/contentprovider03/contentprovider03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/contentresolve/contentresolve.iml" filepath="$PROJECT_DIR$/contentresolve/contentresolve.iml" />
+      <module fileurl="file://$PROJECT_DIR$/imagecache/imagecache.iml" filepath="$PROJECT_DIR$/imagecache/imagecache.iml" />
+      <module fileurl="file://$PROJECT_DIR$/library/library.iml" filepath="$PROJECT_DIR$/library/library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/meiketang/meiketang.iml" filepath="$PROJECT_DIR$/meiketang/meiketang.iml" />
+      <module fileurl="file://$PROJECT_DIR$/one/one.iml" filepath="$PROJECT_DIR$/one/one.iml" />
+      <module fileurl="file://$PROJECT_DIR$/provide/provide.iml" filepath="$PROJECT_DIR$/provide/provide.iml" />
+      <module fileurl="file://$PROJECT_DIR$/providerresolver/providerresolver.iml" filepath="$PROJECT_DIR$/providerresolver/providerresolver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/receiver/receiver.iml" filepath="$PROJECT_DIR$/receiver/receiver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/two/two.iml" filepath="$PROJECT_DIR$/two/two.iml" />
+    </modules>
+  </component>
+</project>

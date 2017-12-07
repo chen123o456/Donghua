@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="us.mifeng.anim.MainActivity">
+    <TextView
+        android:id="@+id/selectAgin"
+        android:layout_margin="20px"
+        android:textColor="#88ff0000"
+        android:textSize="20sp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="重新选择"/>
+    <TextView
+        android:id="@+id/select_sf"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="90px"
+        android:text="身份选择"
+        android:textColor="#ff6699"
+        android:textSize="21.3sp" />
+
+    <TextView
+        android:id="@+id/select_mv"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/select_sf"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="10px"
+        android:text="情小仙女选择一个没课堂的身份吧"
+        android:textColor="#50000000"
+        android:textSize="13sp" />
+
+    <ImageView
+        android:id="@+id/hobby"
+        android:layout_width="123.3px"
+        android:layout_height="186.7px"
+        android:layout_below="@id/select_mv"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="100px"
+        android:scaleType="fitXY"
+        android:src="@mipmap/aihaozhe" />
+
+    <ImageView
+        android:id="@+id/meiye"
+        android:layout_width="123.3px"
+        android:layout_height="186.7px"
+        android:layout_below="@id/select_mv"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="100px"
+        android:scaleType="fitXY"
+        android:src="@mipmap/meiyeren" />
+    <ImageView
+        android:id="@+id/chek01"
+        android:layout_width="80px"
+        android:layout_height="80px"
+        android:layout_below="@id/select_mv"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="110px"
+        android:scaleType="fitXY"
+        android:src="@mipmap/tuanduijianshe_select" />
+
+    <ImageView
+        android:id="@+id/chek02"
+        android:layout_width="80px"
+        android:layout_height="80px"
+        android:layout_below="@id/select_mv"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="110px"
+        android:scaleType="fitXY"
+        android:src="@mipmap/yejibeizeng_select" />
+    <ImageView
+        android:id="@+id/chek03"
+        android:layout_width="80px"
+        android:layout_height="80px"
+        android:layout_below="@id/select_mv"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="110px"
+        android:scaleType="fitXY"
+        android:src="@mipmap/jingyingguanli_select" />
+    <ImageView
+        android:id="@+id/chek04"
+        android:layout_width="80px"
+        android:layout_height="80px"
+        android:layout_below="@id/select_mv"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="110px"
+        android:scaleType="fitXY"
+        android:src="@mipmap/caiwuguanli_select" />
+    <ImageView
+        android:id="@+id/chek05"
+        android:layout_width="80px"
+        android:layout_height="80px"
+        android:layout_below="@id/select_mv"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="110px"
+        android:scaleType="fitXY"
+        android:src="@mipmap/zibenyunzuo_select" />
+    <ImageView
+        android:id="@+id/chek06"
+        android:layout_width="80px"
+        android:layout_height="80px"
+        android:layout_below="@id/select_mv"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="110px"
+        android:scaleType="fitXY"
+        android:src="@mipmap/qiyewenhua_select" />
+    <ImageView
+        android:id="@+id/chek07"
+        android:layout_width="100px"
+        android:layout_height="100px"
+        android:layout_below="@id/select_mv"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="110px"
+        android:scaleType="fitXY"
+        android:src="@mipmap/qiyewenhua_select" />
+    <ImageView
+        android:id="@+id/chek08"
+        android:layout_width="100px"
+        android:layout_height="100px"
+        android:layout_below="@id/select_mv"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="110px"
+        android:scaleType="fitXY"
+        android:src="@mipmap/qiyewenhua_select" />
+    <ImageView
+        android:id="@+id/chek09"
+        android:layout_width="100px"
+        android:layout_height="100px"
+        android:layout_below="@id/select_mv"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="110px"
+        android:scaleType="fitXY"
+        android:src="@mipmap/qiyewenhua_select" />
+
+    <ImageView
+        android:id="@+id/start_select_img"
+        android:layout_width="166px"
+        android:layout_height="37px"
+        android:layout_centerHorizontal="true"
+        android:layout_alignParentBottom="true"
+        android:layout_below="@id/hobby"
+        android:src="@drawable/start_select_img" />
+</RelativeLayout>
